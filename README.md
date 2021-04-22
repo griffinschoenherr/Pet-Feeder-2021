@@ -4,7 +4,7 @@
 For my senior project, I created a Pet Feeder, powered by ESP 8266 NodeMCU. This project was built with the intention of having the pet feeder be controlled via NodeMCU, which in turn would be controlled with Blynk, a platform for the feeder to be controlled over the internet with. 
 ## Hardware
 <li> ESP8266 NodeMCU </li>
-![IMG_1682](https://user-images.githubusercontent.com/47340308/115744737-d6bf9600-a360-11eb-8b73-b0b6b6eb54f5.JPEG)
+![IMG_1682](feeder pics/IMG_1578.jpg)
 
 <li> Breadboard </li>
 <li> Jumper wires </li>
