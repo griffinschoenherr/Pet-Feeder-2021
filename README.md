@@ -17,7 +17,7 @@ For my senior project, I created a Pet Feeder, powered by ESP 8266 NodeMCU. This
 <li> Recycled Cereal Dispenser </li>
 <li> Power Supply Unit </li>
 
-## Sofware
+## Software
 1. Arduino IDE
 2. Blynk App
 ![IMG_1678 (2)](https://user-images.githubusercontent.com/47340308/115754669-6e75b200-a36a-11eb-9f3a-b59fa47abfce.png)
