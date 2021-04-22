@@ -1,4 +1,6 @@
 # Pet-Feeder-2021
+![IMG_1671](https://user-images.githubusercontent.com/47340308/115754890-b0065d00-a36a-11eb-87f9-59a36863617e.png)
+
 
 ## Description 
 For my senior project, I created a Pet Feeder, powered by ESP 8266 NodeMCU. This project was built with the intention of having the pet feeder be controlled via NodeMCU, which in turn would be controlled with Blynk, a platform for the feeder to be controlled over the internet with. 
@@ -21,5 +23,15 @@ For my senior project, I created a Pet Feeder, powered by ESP 8266 NodeMCU. This
 ![IMG_1678](https://user-images.githubusercontent.com/47340308/115754693-76cded00-a36a-11eb-86f9-6df07ab20e6b.png)
 
 
-## 
+## Construction Process
+1. This was made primarily using wood. In the future, a 3D printed model would be more preferable.
+2. The servo attachment was constructed using wooden dowels tapped into drilled out holes, which was then screwed onto the servo motor.
+![IMG_1632](https://user-images.githubusercontent.com/47340308/115760612-7421c680-a36f-11eb-9695-4d28d1739869.png)
+3. 
+
+
+## Board Assembly
+1. 
+![IMG_1673](https://user-images.githubusercontent.com/47340308/115760756-8f8cd180-a36f-11eb-8175-b1d52cb53f01.png)
+
 
