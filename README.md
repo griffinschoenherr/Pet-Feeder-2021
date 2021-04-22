@@ -7,6 +7,7 @@
 <li> The feeder is coded such that it can be manually triggered, or have two alarms set for it to go off throughout the day.</li>
 <li> Feeder will display feed intervals in the app. </li>
 <li> Amount of servings can be adjusted in app.</li>
+
 ## Hardware
 <li> ESP8266 NodeMCU </li>
 ![IMG_1682](https://user-images.githubusercontent.com/47340308/115754591-57cf5b00-a36a-11eb-8e88-8eb90f64898b.png)
