@@ -39,7 +39,7 @@ For my senior project, I created a Pet Feeder, powered by ESP 8266 NodeMCU. This
 ![IMG_1673](https://user-images.githubusercontent.com/47340308/115760756-8f8cd180-a36f-11eb-8175-b1d52cb53f01.png)
 2. The servo is wired to the breadboard, for power, not the NodeMCU.
 3. The NodeMCU pin is wired to the servo for commends, as shown. 
-4. The NodeMCU is grounded to the breadboard.
+4. The NodeMCU is grounded to the breadboard. It must share the same ground as the servo.
 5. NodeMCU power is independent of the servo.
 
 
